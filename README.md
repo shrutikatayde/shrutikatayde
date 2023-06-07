@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 👩🏻‍🎓  I’m currently Student<br>💻 I’m currently learning Python, Full-Stack Web Development <br>💬 Ask me about Python, Frontend development (HTML5, CSS3, BOOTSTRAP) <br>📫 How to reach me: shrutikatayde03@gmail.com <br>⚡ Fun fact: Always finds bugs quickly
 
 
